@@ -1,0 +1,9 @@
+
+#Libraries
+	tkinter
+	sqlite3
+	scikit-learn
+	joblib
+	pytest
+	matplotlib
+
